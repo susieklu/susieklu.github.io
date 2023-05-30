@@ -1,2 +1,4 @@
 # susieklu.github.io
-Susie's first website!
+git add .
+git commit -m 'add index.html and css files'
+git push
