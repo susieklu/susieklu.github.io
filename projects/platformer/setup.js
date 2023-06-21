@@ -76,8 +76,8 @@ const cannonHeight = 80;
 let projectiles = [];
 const defaultProjectileWidth = 24;
 const defaultProjectileHeight = defaultProjectileWidth;
-const collectableWidth = 40;
-const collectableHeight = 40;
+const collectableWidth = 45;
+const collectableHeight = 45;
 let collectables = [];
 
 // canvas and context variables; must be initialized later
@@ -97,4 +97,6 @@ var collectableList = {
   kennedi: { image: "images/collectables/kennedi-head.png" },
   max: { image: "images/collectables/max-head.png" },
   steve: { image: "images/collectables/steve-head.png" },
+  disco: { image: "images/collectables/disco.png"},
+  discorainbow: { image: "images/collectables/disco-rainbow.png"},
 };
